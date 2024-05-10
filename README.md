@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vinh Le
+### Hi there 👋 I'm Vinh Le (Danny)
 
 I am particularly interested in software development, distributed systems, big data to optimizes work processes and improves operational efficiency.
 
