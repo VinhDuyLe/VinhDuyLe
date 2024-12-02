@@ -6,7 +6,7 @@ Back-end: Java, Python, C++, Distributed System, Kafka, Cassandra, Spring, Sprin
 
 Front-end: JavaScript, React
 
-- 🤔 Graduated MSc.CS at SCU, actively looking for a Software Engineer, this is my [Resume](https://drive.google.com/file/d/1yldyLDvo1yI3FjCKdEMR0YJcSzFIzR84/view?usp=sharing)
+- 🤔 Graduated MSc.CS at SCU, actively looking for a Software Engineer, my [Resume](https://drive.google.com/file/d/1yldyLDvo1yI3FjCKdEMR0YJcSzFIzR84/view?usp=sharing)
 - 🔭 Currently, I am a Software Engineer Volunteer at Frugal Innovation Hub
 - 🌱 Previously, participated in OpenKnect Inc. Software Engineering Bootcamp Program and Advanced Web Development at CodePath
 - 📫 Reach me: leduyvinh91@gmail.com
