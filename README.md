@@ -6,7 +6,7 @@ Back-end: Java, Python, C++, Kafka, Cassandra, Spring Boot, REST APIs, MySQL, Po
 
 Front-end: JavaScript/TypeScript, React, Vue.js, Next.js, Redux, Vuex/Pinia, GraphQL, HTML/CSS
 
-- 🤔 Graduated MSc.CS at SCU, actively looking for a Software Engineer, my [Resume](https://drive.google.com/file/d/1yldyLDvo1yI3FjCKdEMR0YJcSzFIzR84/view?usp=sharing)
+- 🤔 Graduated MSc.CS at SCU, actively looking for a Software Engineer, my [Resume](https://drive.google.com/file/d/1yldyLDvo1yI3FjCKdEMR0g)
 - 🔭 Currently, I am a Software Developer at Frugal Innovation Hub
 - 🌱 Previously, Software Engineer Intern at OpenKnect Inc. and Software Engineer at Khanh Loi Jsc.
 - 📫 Reach me: leduyvinh91@gmail.com
